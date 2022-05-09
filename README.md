@@ -1,5 +1,7 @@
 https://intrepidgeeks.com/tutorial/how-do-i-run-the-cassandra-container-locally
 
+https://citizix.com/how-to-run-cassandra-4-with-docker-and-docker-compose/
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/fitubit/fitubit.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
